@@ -1,5 +1,7 @@
 # Sale-Analytic-Dashboard
 This Dashboard was created using Ms Power bi 
+Data source kaggle
+
 # Methods
 import data into power bi
 Edit data in power query
