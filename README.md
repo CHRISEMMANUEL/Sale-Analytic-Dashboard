@@ -4,7 +4,7 @@ This Dashboard was created using Ms Power bi
 
 [Live site](https://www.novypro.com/project/sales-13)
 
- ![Sales Dashboard](https://ibb.co/Bzpv8QS)
+ ![Sales Dashboard](https://i.ibb.co/4mqCBX5/SALES-DASHBOARD.jpg)
 ## Methods
 import data into power bi
 Edit data in power query
