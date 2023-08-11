@@ -16,9 +16,7 @@ This Power BI project analyzes sales data to provide insights into key performan
 - [Data Sources](#data-sources)
 - [Visualizations](#visualizations)
 - [Custom Measures](#custom-measures)
-- [Known Issues](#known-issues)
 - [Contributing](#contributing)
-
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -41,7 +39,6 @@ This Power BI project analyzes sales data to provide insights into key performan
 
 ## Visualizations
 - Sales Overview Dashboard: Displays total sales, revenue, and top products.
-- Regional Performance Map: Maps sales data by region using geographical visualizations.
 - Product Category Analysis: Breakdown of sales by product categories.
 - Monthly Trends Chart: Line chart showing sales trends over time.
 
@@ -49,8 +46,6 @@ This Power BI project analyzes sales data to provide insights into key performan
 - Gross Margin Percentage: Calculates the margin percentage for each sale.
 - YoY Sales Growth: Measures year-over-year sales growth.
 
-## Known Issues
-- The regional map might not render correctly on some versions of Power BI Desktop.
 
 ## Contributing
 Contributions are welcome! To contribute:
